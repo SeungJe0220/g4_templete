@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "cmath": "cpp",
+    "vector": "cpp",
+    "*.icc": "cpp",
+    "streamers": "cpp"
+  }
+}

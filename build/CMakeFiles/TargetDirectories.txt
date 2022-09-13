@@ -1,0 +1,4 @@
+C:/Users/kirams/Geant4/temp/build/CMakeFiles/temp.dir
+C:/Users/kirams/Geant4/temp/build/CMakeFiles/PACKAGE.dir
+C:/Users/kirams/Geant4/temp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/kirams/Geant4/temp/build/CMakeFiles/ZERO_CHECK.dir
